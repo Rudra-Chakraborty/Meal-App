@@ -30,7 +30,7 @@ The app allows users to search for meals using ingredients or meal names, retrie
 
 I created a demonstration video showing the main features and functionality of the application:
 
-[▶ Watch the Demo Video]()
+[▶ Watch the Demo Video](https://www.youtube.com/watch?v=ViG6H3X2004)
 
 ## How to Run
 
